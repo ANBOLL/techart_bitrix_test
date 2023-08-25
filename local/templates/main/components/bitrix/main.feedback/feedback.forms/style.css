@@ -1,0 +1,12 @@
+.mf-control-required { color: #f00; }
+.mb-4{
+    margin: 0 200px;
+    height: max-content;
+}
+h4{
+    font-weight: 600;
+    font-size: 16px;
+}
+.form-row label{
+    transform: translateY(0px);
+}
